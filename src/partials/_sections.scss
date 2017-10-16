@@ -1,0 +1,12 @@
+#demo {
+  height:100%;
+  overflow:hidden;
+}
+.box {
+  width:400px;
+  height:400px;
+  position:absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
