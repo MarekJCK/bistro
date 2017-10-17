@@ -1,1 +1,1 @@
-var box=document.getElementById("greenBox");TweenMax.to(box,4,{left:900,rotationY:160,top:"50%",rotation:-90,ease:Back.easeIn,repeat:-1,yoyo:!0,repeatDelay:.1});
+var fish=document.getElementById("yellowFish");TweenMax.to(fish,4,{left:900,rotationY:160,top:"50%",rotation:-90,ease:Back.easeIn,repeat:-1,yoyo:!0,repeatDelay:.1});

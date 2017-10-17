@@ -1,6 +1,6 @@
-var box = document.getElementById("greenBox");
+var fish = document.getElementById("yellowFish");
 
-TweenMax.to(box, 4, {
+TweenMax.to(fish, 4, {
     left:900,
     rotationY: 160,
     top:"50%",
