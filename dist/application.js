@@ -1,1 +1,1 @@
-function onRepeat(){TweenLite.set(box)}var box=document.getElementById("greenBox"),tween=new TweenMax(box,2,{left:"700px",repeat:-1,yoyo:!0,onRepeat:onRepeat,repeatDelay:.5,ease:Linear.ease,rotation:360});
+var box=document.getElementById("greenBox");TweenMax.to(box,4,{left:900,rotationY:160,top:"50%",rotation:-90,ease:Back.easeIn,repeat:-1,yoyo:!0,repeatDelay:.1});
